@@ -24,7 +24,5 @@ The dataset includes the following atmospheric and meteorological variables:
 > 🗂️ **Resolution**: Hourly
 > 🌍 **Location**: Taiwan
 
----
 
-## 📂 Repository Structure
 
