@@ -22,7 +22,7 @@ The dataset includes the following atmospheric and meteorological variables:
 
 > 📅 **Time Period**: May 2020 to June 2021  
 > 🗂️ **Resolution**: Hourly
-> 🌍 **Location**: Taiwan
-
+> 🌍 **Location**: 臺西水試所
+---
 
 
